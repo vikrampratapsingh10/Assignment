@@ -1,0 +1,11 @@
+1. Write a java program to find out all palindrom number in
+array.
+
+2. Write java program to replace each array element 
+   with it factorail value
+
+3. Write a java program to search an element in given array
+
+4. Write a java program to reverse the array
+
+5. Write a java program to sort the array of integers   
